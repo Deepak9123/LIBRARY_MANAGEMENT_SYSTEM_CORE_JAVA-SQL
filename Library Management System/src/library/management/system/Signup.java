@@ -1,14 +1,3 @@
-/*
-            TCR  Innovation
-   CORE JAVA+SQL INTERNSHIP PROGRAM
-        INTERNSHIP (( FINAL PROJECT ON LIBRARY MANAGEMENT SYSTEM )) .
-
-Name -- VICKY KUMAR JHA
-EMAIL -- vk2535vk@gmail.com
-
-INTERNSHIP (( FINAL PROJECT ON LIBRARY MANAGEMENT SYSTEM ))
-
- */
 
 package library.management.system;
 
