@@ -34,7 +34,7 @@
 - Finally Run the Project
 - Enjoy the Project
 
-# Project is Developed by Deepak,Anurag Kumar, Purushuttom and Aman Anurag
+# Project is Developed by Deepak Kumar Mahato,Anurag Kumar, Purushuttom and Aman Anurag
 
 # Thank You
 
